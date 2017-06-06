@@ -1,0 +1,84 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: UCzYT6RE8m1+z99KNVBkhnl38jY=
+
+Name: res/drawable-hdpi/pdf417.gif
+SHA1-Digest: 3rCFgDwL3SKWnKEiMlGPKmofms0=
+
+Name: res/drawable-hdpi/qrcode.gif
+SHA1-Digest: IWOFFT4o025zOIT3tTSg+Qz4ZeI=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: RQ09RDJf3yWYEKYOavo2ED4Yaz0=
+
+Name: res/drawable-hdpi/logo.bmp
+SHA1-Digest: cULg3L76lbzOQiH/FMHrdZYF+Zk=
+
+Name: res/drawable-hdpi/test.bmp
+SHA1-Digest: TA5h8tG1GvEtdeuOlh+y/4m7U5U=
+
+Name: resources.arsc
+SHA1-Digest: szQf/kuShu8xnnWk3JF6YgThC2E=
+
+Name: res/layout/custom_title.xml
+SHA1-Digest: m0TJ+SPl4gawcO6lYA1bSQg047s=
+
+Name: res/drawable-hdpi/rego.png
+SHA1-Digest: BrMEDxokctr/xE9Eb3usYGqwUiA=
+
+Name: res/drawable-ldpi/ic_launcher.png
+SHA1-Digest: CepliFtAgOUV73Bk6BbHeZHAdXs=
+
+Name: AndroidManifest.xml
+SHA1-Digest: h8AMV00eaTU3nOy40typfI1g5Ns=
+
+Name: res/drawable-hdpi/codabar.gif
+SHA1-Digest: 0x8VPuEUgWUUuzRQ7gs5gEgzLFA=
+
+Name: res/layout/barcodeprint.xml
+SHA1-Digest: Y4PB08/wUHMhDfjFDTRVtEDCk0w=
+
+Name: res/drawable-hdpi/ean8.gif
+SHA1-Digest: y1tkTh4qBhDWydwrvulmoPcSndc=
+
+Name: res/drawable-hdpi/upce.gif
+SHA1-Digest: gOIB8ug0vvMrUkDqDBrPnleXd/g=
+
+Name: res/layout/flashprint.xml
+SHA1-Digest: zBAXjdhTkmTbG6ugJ49ghdr8U+U=
+
+Name: res/layout/graphicprint.xml
+SHA1-Digest: JnffP3K/DaMH+VGR3jHVshn9cDw=
+
+Name: res/drawable-hdpi/upca.gif
+SHA1-Digest: Ku9vweW6U5+QUC9BSnIZfOafesY=
+
+Name: res/drawable-hdpi/code93.gif
+SHA1-Digest: /1xyETi3wxqtJ9LYy4c2yCxLLq0=
+
+Name: res/layout/asciiprint.xml
+SHA1-Digest: EJv3OXyRy7+IxME9Y+xQXpg+fPI=
+
+Name: classes.dex
+SHA1-Digest: cyWwAv2HgNnBBBuTkYH2b8LwKHE=
+
+Name: res/drawable-hdpi/ean13.gif
+SHA1-Digest: yOZ4kszH05+jxhVEcTwZ1STcdjc=
+
+Name: res/drawable-hdpi/code128.gif
+SHA1-Digest: /JOKw3nqDWH0JsRIccDfSNk40yw=
+
+Name: res/layout/main.xml
+SHA1-Digest: 4/RCl5q+xCWuH4hJ/CpYgDQ/ygs=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: I3MP0NXnINH3Gb4a/IxI+nMF2mw=
+
+Name: res/drawable-hdpi/code39.gif
+SHA1-Digest: dKHCaEh55VIUyiBmG26EzZ7tnxU=
+
+Name: res/drawable-hdpi/itf.gif
+SHA1-Digest: LqrL+OiIzmekLcIwGftozvULaDg=
+
